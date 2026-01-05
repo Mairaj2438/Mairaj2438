@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mairaj2438
-- 👀 I’m interested in Python libraries, backend of web applications, web scrapping 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on real-life projects in python in websites 
+- 👀 I’m interested in JavaScript,MERN Stack , coding, backend of web applications, web scrapping 
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on real-life projects in javascript and react.js  in websites 
 - 📫 Email: mk3146570@gmail.com
 - Whatsapp:+923225741695
 
